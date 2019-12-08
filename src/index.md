@@ -7,7 +7,7 @@ Club: The Underground
 
 keywords: VRChat 地下 立体音響 ガバキック 極度低音（しなさい）
 
-## Q&A
+## Ｑ＆Ａコーナー
 
 ### Q. なんで "地下" って名前なんですか
 
@@ -48,4 +48,4 @@ A. 写真は（出演者がダメって言わない限り）OKです 動画は�
 
 ハッシュタグ [#ClubTheUnderground](https://twitter.com/hashtag/ClubTheUnderground) を付けて写真をツイートしよう
 
-<a class="twitter-moment" data-dnt="true" href="https://twitter.com/i/moments/1203735076669755392?ref_src=twsrc%5Etfw">Club: The Underground</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+<a class="twitter-moment" data-dnt="true" href="https://twitter.com/i/moments/1203735076669755392">Club: The Underground</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 

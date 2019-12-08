@@ -48,4 +48,4 @@ A. 写真は（出演者がダメって言わない限り）OKです 動画は�
 
 ハッシュタグ [#ClubTheUnderground](https://twitter.com/hashtag/ClubTheUnderground) を付けて写真をツイートしよう
 
-<a class="twitter-moment" data-dnt="true" href="https://twitter.com/i/moments/1203735076669755392">Club: The Underground</a> 
+<a class="twitter-moment" href="https://twitter.com/i/moments/1203735076669755392?ref_src=twsrc%5Etfw">Club: The Underground</a> 

@@ -1,0 +1,22 @@
+# Required
+base_url = 'https://7colou.red/the-underground'
+title = "Club: The Underground"
+theme = "website" # to disable theming, specify "none".
+
+# Optional, will be empty by default
+subtitle = ""
+description = ''
+copyright = "Copyright 2019 cannorin"
+
+# Optional, will be this value by default
+lang    = "ja-jp"
+source  = "src"     # directory to find source files
+output  = "output"  # directory to output processed files
+content = "content" # files in this directory will be copied directly to ./${output}/
+themes  = "themes"  # directory to find themes
+
+## Markdown config (optional) 
+markdown = "advanced"   # set this "advanced" to enable popular extensions
+# markdown_extra_rules = "extra_rules"
+                      # put your custom rule definitions here (not implemented yet)
+

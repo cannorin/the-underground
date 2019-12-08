@@ -32,7 +32,7 @@ A. フリードリンクが出てくるバーとふかふかのソファがあ�
 
 ### Q. いつやってますか
 
-A. 不定期です 多分 [tw:@cannrin_vrc](https://twitter.com/cannorin_vrc) がツイートします
+A. 不定期です 多分 [tw:@cannorin_vrc](https://twitter.com/cannorin_vrc) がツイートします
 
 ### Q. 行きたいです
 

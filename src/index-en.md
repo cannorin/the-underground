@@ -5,48 +5,23 @@
 
 ![logo](img/logo.png)
 
-*keywords: VRChat Underground 3D-Audio Harder-styles Algorave*
-
 [日本語](index.html)
 
 ## FAQ
 
-### Q. What genre of music will be played?
+### Q. What's this?
 
-A. We do *not* guarantee you can enjoy (what you consider) some kind of music.
-That being said, we, as the name suggests, tend to do underground / experimental musics:
-
-* Underground hardcore musics such as Frenchcore and Hardtek
-* Algorave events with Sonic Pi, TidalCycles. etc
-* *TECHNO*
-* Whatever we like
-
-### Q. What I can expect in the club other than music?
-
-A. We have free drinks (virtual) and nice sofas (virtual).
-
-### Q. When is the next gig?
-
-A. Refer to [tw:@cannorin_vrc](https://twitter.com/cannorin_vrc). All times are in JST (UTC+9).
+A. The first rule.
 
 ### Q. How to join?
 
-A. We open the instance with Friends+, so if you have friends already in the club you also can join. Feel free to friend vrc:cannorin if it's not the case.
-
-### Q. I want to have a gig!
-
-A. Join https://discord.gg/43P7Um6 !
-
-Note that it's a server for performers and we don't have a "lounge" server.
-If you want to talk about the club, use Twitter with a hashtag [#ClubTheUnderground](https://twitter.com/hashtag/ClubTheUnderground).
+A. We open the instance with Friends+, so if you have friends already in there you also can join. Feel free to friend vrc:cannorin if it's not the case.
 
 ### Q. Can I upload photos/videos to Twitter etc?
 
-A. You can freely upload photos (unless the performer said otherwise). 
+A. You can't, until you read the in-world description about this topic.
 
-If you want to upload videos, contact the performer yourself and ask for permission. For copyright reasons, it's safe to assume every video of a DJ set is not uploadable.
-
-### Q. I noticed some people have a logo of the club in their avatar. How can I also use it?
+### Q. I noticed some people have a logo in their avatar. How can I also use it?
 
 A. The logo is published under the following license:
 
@@ -64,8 +39,3 @@ In a nutshell: You can change the color and place the glyphs ("地下 The Underg
 
 Ask [tw:@cannorin_vrc](https://twitter.com/cannorin_vrc) with DM for the raw .ai/.svg data.
 
-## The Underground Photos
-
-Tweet your photo with [#ClubTheUnderground](https://twitter.com/hashtag/ClubTheUnderground)!
-
-<a class="twitter-moment" href="https://twitter.com/i/moments/1203735076669755392?ref_src=twsrc%5Etfw">Club: The Underground</a> 

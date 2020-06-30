@@ -1,6 +1,6 @@
 # Required
 base_url = 'https://7colou.red/the-underground'
-title = "Club: The Underground"
+title = "The Underground"
 theme = "website" # to disable theming, specify "none".
 
 # Optional, will be empty by default
